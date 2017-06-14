@@ -33,4 +33,3 @@ Credits:
 - [Song downloaded from momolabo.lolipop.jp](http://momolabo.lolipop.jp/nyancatsong/Nyan/Nyanyanyanyanyanyanya%21.html)
 - [Octicons](https://octicons.github.com/)
 
-
